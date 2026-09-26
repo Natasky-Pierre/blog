@@ -1,0 +1,27 @@
+.sidebar-my-image{
+	height: 150px;
+	width: 100px;
+}
+
+
+.sidebar-my-name{
+	text-align: center;
+}
+
+.sidebar-about-me{
+	padding: 15px;
+	background-color: darkred;
+}
+
+
+.sidebar-social-media{
+	background-color: beige;
+}
+/*maybe do soc med or icon or both idk*/
+
+.sidebar-social-icon{
+	background-color: rosybrown;
+}
+
+
+
